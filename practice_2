@@ -1,0 +1,4 @@
+ # Create function
+def sayHello(name):
+  print(f'Hello {name}')
+sayHello('John Doe')
